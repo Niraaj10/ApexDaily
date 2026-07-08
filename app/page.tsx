@@ -51,11 +51,11 @@ function Nav() {
         </nav>
 
         <div className="flex items-center gap-3">
-          <a href="#" className="hidden sm:block text-xs font-bold text-slate-400 hover:text-white transition">
+          <a href="/login" className="hidden sm:block text-xs font-bold text-slate-400 hover:text-white transition">
             Sign in
           </a>
           <a
-            href="#"
+            href="/login"
             className="bg-white text-black px-4 py-2 rounded-xl text-xs font-bold hover:bg-slate-200 transition"
           >
             Start free
@@ -100,13 +100,13 @@ function Hero() {
 
           <div className="flex flex-wrap items-center gap-4">
             <a
-              href="#"
+              href="/dashboard"
               className="bg-white text-black px-6 py-3.5 rounded-xl text-sm font-bold flex items-center gap-2 hover:bg-slate-200 transition"
             >
               Start for free <ArrowRight size={16} />
             </a>
             <a
-              href="#"
+              href="/dashboard"
               className="text-sm font-bold text-slate-300 hover:text-white flex items-center gap-2 transition"
             >
               See it in action <ArrowUpRight size={15} />
@@ -513,7 +513,7 @@ function Pricing() {
               ))}
             </ul>
             <a
-              href="#"
+              href="/dashboard"
               className="block text-center bg-white text-black py-3 rounded-xl text-xs font-bold hover:bg-slate-200 transition"
             >
               Start free trial
@@ -558,7 +558,7 @@ function CtaBanner() {
           Free for teams up to 5. No credit card required.
         </p>
         <a
-          href="#"
+          href="/dashboard"
           className="inline-flex items-center gap-2 bg-white text-black px-6 py-3.5 rounded-xl text-sm font-bold hover:bg-slate-200 transition"
         >
           Start for free <ArrowRight size={16} />
