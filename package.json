@@ -29,6 +29,7 @@
     "next": "16.1.6",
     "next-auth": "^4.24.13",
     "pg": "^8.18.0",
+    "postcss": "^8.5.16",
     "react": "19.2.3",
     "react-day-picker": "^9.13.0",
     "react-dom": "19.2.3",
@@ -36,7 +37,7 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/postcss": "^4.3.2",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20.19.30",
     "@types/pg": "^8.16.0",
@@ -45,7 +46,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "prisma": "5.22.0",
-    "tailwindcss": "^4",
+    "tailwindcss": "^4.3.2",
     "tailwindcss-animate": "^1.0.7",
     "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
