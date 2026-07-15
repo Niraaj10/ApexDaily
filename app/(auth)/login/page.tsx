@@ -46,20 +46,19 @@ export default function LoginPage() {
           <div className="relative z-10">
             <div className="inline-block">
               <p className="text-white/80 text-xs font-medium tracking-widest uppercase">
-                A WISE QUOTE
+                THE APEX OF PRODUCTIVITY
               </p>
             </div>
           </div>
 
           <div className="relative z-10">
             <h1 className="text-white font-serif text-6xl leading-tight mb-6">
-              Get<br />
-              Everything<br />
-              You Want
+              Master<br />
+              Your Daily<br />
+              Workflow
             </h1>
             <p className="text-white/70 text-sm leading-relaxed max-w-sm">
-              You can get everything you want if you work hard,<br />
-              trust the process, and stick to the plan.
+              Unify workspace collaboration, project management, and a strict-consistency habit tracker into a single, cohesive platform.
             </p>
           </div>
         </div>
@@ -72,7 +71,7 @@ export default function LoginPage() {
               <div className="w-6 h-6 bg-black rounded-full flex items-center justify-center">
                 <div className="w-3 h-3 border-2 border-white rounded-full"></div>
               </div>
-              <span className="text-lg font-semibold text-gray-900">Cogie</span>
+              <span className="text-lg font-semibold text-gray-900">ApexDaily</span>
             </div>
           </div>
 
@@ -82,7 +81,7 @@ export default function LoginPage() {
               Welcome Back
             </h2>
             <p className="text-sm text-gray-500">
-              Enter your email and password to access your account
+              Enter your email and password to access your high-performance workspace
             </p>
           </div>
 
