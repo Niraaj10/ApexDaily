@@ -1,3 +1,4 @@
+import HomeSec from "@/components/home/homeSection";
 import {
   Layout,
   CheckCircle2,
@@ -17,6 +18,9 @@ import {
 export default function HomePage() {
   return (
     <div className="bg-[#0d0d0d] text-white overflow-x-hidden">
+
+{/* <HomeSec /> */}
+
       <Nav />
       <Hero />
       <ValueStrip />
